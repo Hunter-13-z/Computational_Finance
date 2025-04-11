@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# VS Code project settings
+.vscode/
+
+# macOS 系统文件
+.DS_Store
+
+# Output / temp
+*.log
+*.out
+*.tmp
+*.bak
